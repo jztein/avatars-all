@@ -29,14 +29,14 @@ int main(int argc, char** argv)
 
     INTRAFACE::FaceAlignment *faceAligner;
 INTRAFACE::XXDescriptor xxd(4);
-faceAligner = new INTRAFACE::FaceAlignment("DetectionModel-v1.5.bin", "TrackingModel-v1.10.bin", &xxd);
+faceAligner = new INTRAFACE::FaceAlignment("./models/DetectionModel-v1.5.bin", "./models/TrackingModel-v1.10.bin", &xxd);
 if (!faceAligner->Initialized()) {
 cerr << "INTRAFACE error: Cannot init FaceAlignment" << endl;
 exit(1);
 }
     
 CascadeClassifier cascadeClassifier;
-if( !cascadeClassifier.load( string("haarcascade_frontalface_alt2.xml") ) )
+if( !cascadeClassifier.load( string("./models/haarcascade_frontalface_alt2.xml") ) )
 {
 cerr << "cv::CascadeClassifier error: Cannot load face detection model" << endl;
 exit(1);
