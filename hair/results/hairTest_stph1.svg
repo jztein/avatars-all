@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<body>
+<svg width='1080' height='720' xmlns='http://www.w3.org/2000/svg' xmlns:xlink= 'http://www.w3.org/1999/xlink' viewBox='0 0 1080 720'> 
+<defs> 
+</defs> 
+<rect x='0' y='0' width='1080' height='720' style='fill:blue;opacity:0.1'/> 
+<circle style='fill:#0000ff' cx='532' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='536' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='560' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='1644' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='2688' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='3764' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='3768' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='3808' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='3812' cy='10' r='3' />
+<circle style='fill:#0000ff' cx='604' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='1588' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='1676' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='1688' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='1692' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='2664' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='2760' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='2776' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='3740' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='3860' cy='20' r='3' />
+<circle style='fill:#0000ff' cx='464' cy='30' r='3' />
+<circle style='fill:#0000ff' cx='484' cy='30' r='3' />
+<circle style='fill:#0000ff' cx='1560' cy='30' r='3' />
+<circle style='fill:#0000ff' cx='2640' cy='30' r='3' />
+<circle style='fill:#0000ff' cx='3708' cy='30' r='3' />
+<circle style='fill:#0000ff' cx='468' cy='40' r='3' />
+<circle style='fill:#0000ff' cx='1524' cy='40' r='3' />
+<circle style='fill:#0000ff' cx='1532' cy='40' r='3' />
+<circle style='fill:#0000ff' cx='1724' cy='40' r='3' />
+<circle style='fill:#0000ff' cx='2608' cy='40' r='3' />
+<circle style='fill:#0000ff' cx='3676' cy='40' r='3' />
+<circle style='fill:#0000ff' cx='1500' cy='50' r='3' />
+<circle style='fill:#0000ff' cx='1740' cy='50' r='3' />
+<circle style='fill:#0000ff' cx='2576' cy='50' r='3' />
+<circle style='fill:#0000ff' cx='3656' cy='50' r='3' />
+<circle style='fill:#0000ff' cx='3904' cy='50' r='3' />
+<circle style='fill:#0000ff' cx='1756' cy='60' r='3' />
+<circle style='fill:#0000ff' cx='3648' cy='60' r='3' />
+<circle style='fill:#0000ff' cx='1484' cy='70' r='3' />
+<circle style='fill:#0000ff' cx='1768' cy='70' r='3' />
+<circle style='fill:#0000ff' cx='2552' cy='70' r='3' />
+<circle style='fill:#0000ff' cx='2564' cy='70' r='3' />
+<circle style='fill:#0000ff' cx='2848' cy='70' r='3' />
+<circle style='fill:#0000ff' cx='3632' cy='70' r='3' />
+<circle style='fill:#0000ff' cx='1776' cy='80' r='3' />
+<circle style='fill:#0000ff' cx='2856' cy='80' r='3' />
+<circle style='fill:#0000ff' cx='3624' cy='80' r='3' />
+<circle style='fill:#0000ff' cx='3632' cy='80' r='3' />
+<circle style='fill:#0000ff' cx='1784' cy='90' r='3' />
+<circle style='fill:#0000ff' cx='2552' cy='90' r='3' />
+<circle style='fill:#0000ff' cx='2864' cy='90' r='3' />
+<circle style='fill:#0000ff' cx='3620' cy='90' r='3' />
+<circle style='fill:#0000ff' cx='1448' cy='100' r='3' />
+<circle style='fill:#0000ff' cx='2532' cy='100' r='3' />
+<circle style='fill:#0000ff' cx='3612' cy='100' r='3' />
+<circle style='fill:#0000ff' cx='3952' cy='100' r='3' />
+<circle style='fill:#0000ff' cx='1812' cy='130' r='3' />
+<circle style='fill:#0000ff' cx='2892' cy='130' r='3' />
+<circle style='fill:#0000ff' cx='736' cy='140' r='3' />
+<circle style='fill:#0000ff' cx='744' cy='160' r='3' />
+<circle style='fill:#0000ff' cx='1824' cy='160' r='3' />
+<circle style='fill:#0000ff' cx='748' cy='170' r='3' />
+<circle style='fill:#0000ff' cx='3992' cy='180' r='3' />
+<circle style='fill:#0000ff' cx='2916' cy='190' r='3' />
+<circle style='fill:#0000ff' cx='4000' cy='200' r='3' />
+<circle style='fill:#0000ff' cx='768' cy='230' r='3' />
+<circle style='fill:#0000ff' cx='1848' cy='230' r='3' />
+<circle style='fill:#0000ff' cx='764' cy='240' r='3' />
+<circle style='fill:#0000ff' cx='768' cy='240' r='3' />
+<circle style='fill:#0000ff' cx='1848' cy='240' r='3' />
+<circle style='fill:#0000ff' cx='2928' cy='240' r='3' />
+<circle style='fill:#0000ff' cx='2932' cy='250' r='3' />
+<circle style='fill:#0000ff' cx='768' cy='270' r='3' />
+<circle style='fill:#0000ff' cx='776' cy='270' r='3' />
+<circle style='fill:#0000ff' cx='1848' cy='270' r='3' />
+<circle style='fill:#0000ff' cx='1856' cy='270' r='3' />
+<circle style='fill:#0000ff' cx='2928' cy='270' r='3' />
+<circle style='fill:#0000ff' cx='1732' cy='310' r='3' />
+<circle style='fill:#0000ff' cx='772' cy='350' r='3' />
+<circle style='fill:#0000ff' cx='1852' cy='350' r='3' />
+<circle style='fill:#0000ff' cx='4012' cy='350' r='3' />
+<circle style='fill:#0000ff' cx='780' cy='360' r='3' />
+<circle style='fill:#0000ff' cx='1860' cy='360' r='3' />
+<circle style='fill:#0000ff' cx='2940' cy='360' r='3' />
+<circle style='fill:#0000ff' cx='4020' cy='360' r='3' />
+<circle style='fill:#0000ff' cx='1860' cy='370' r='3' />
+<circle style='fill:#0000ff' cx='2940' cy='370' r='3' />
+<circle style='fill:#0000ff' cx='788' cy='390' r='3' />
+<circle style='fill:#0000ff' cx='1868' cy='390' r='3' />
+<circle style='fill:#0000ff' cx='1852' cy='420' r='3' />
+<circle style='fill:#0000ff' cx='2932' cy='420' r='3' />
+<circle style='fill:#0000ff' cx='4012' cy='420' r='3' />
+<circle style='fill:#0000ff' cx='768' cy='460' r='3' />
+<circle style='fill:#0000ff' cx='1848' cy='460' r='3' />
+<circle style='fill:#0000ff' cx='2928' cy='460' r='3' />
+<circle style='fill:#0000ff' cx='4008' cy='460' r='3' />
+<circle style='fill:#0000ff' cx='3516' cy='530' r='3' />
+<circle style='fill:#0000ff' cx='1356' cy='540' r='3' />
+<circle style='fill:#0000ff' cx='268' cy='550' r='3' />
+<circle style='fill:#0000ff' cx='280' cy='560' r='3' />
+<circle style='fill:#0000ff' cx='1360' cy='560' r='3' />
+<circle style='fill:#0000ff' cx='2440' cy='560' r='3' />
+<circle style='fill:#0000ff' cx='3520' cy='560' r='3' />
+<circle style='fill:#0000ff' cx='2440' cy='570' r='3' />
+<circle style='fill:#0000ff' cx='3520' cy='570' r='3' />
+<circle style='fill:#0000ff' cx='2440' cy='580' r='3' />
+<circle style='fill:#0000ff' cx='3520' cy='580' r='3' />
+<circle style='fill:#0000ff' cx='272' cy='590' r='3' />
+<circle style='fill:#0000ff' cx='1352' cy='590' r='3' />
+<circle style='fill:#0000ff' cx='2436' cy='590' r='3' />
+<circle style='fill:#0000ff' cx='3516' cy='590' r='3' />
+<circle style='fill:#0000ff' cx='268' cy='600' r='3' />
+<circle style='fill:#0000ff' cx='1348' cy='600' r='3' />
+<circle style='fill:#0000ff' cx='2428' cy='600' r='3' />
+<circle style='fill:#0000ff' cx='256' cy='620' r='3' />
+<circle style='fill:#0000ff' cx='276' cy='620' r='3' />
+<circle style='fill:#0000ff' cx='1360' cy='620' r='3' />
+<circle style='fill:#0000ff' cx='272' cy='630' r='3' />
+<circle style='fill:#0000ff' cx='2408' cy='630' r='3' />
+<circle style='fill:#0000ff' cx='228' cy='640' r='3' />
+<circle style='fill:#0000ff' cx='512' cy='640' r='3' />
+<circle style='fill:#0000ff' cx='1320' cy='640' r='3' />
+<circle style='fill:#0000ff' cx='1320' cy='650' r='3' />
+<circle style='fill:#0000ff' cx='2388' cy='650' r='3' />
+<circle style='fill:#0000ff' cx='3484' cy='650' r='3' />
+<circle style='fill:#0000ff' cx='792' cy='660' r='3' />
+<circle style='fill:#0000ff' cx='3456' cy='660' r='3' />
+<circle style='fill:#0000ff' cx='3472' cy='660' r='3' />
+<circle style='fill:#0000ff' cx='264' cy='670' r='3' />
+<circle style='fill:#0000ff' cx='1288' cy='670' r='3' />
+<circle style='fill:#0000ff' cx='2980' cy='680' r='3' />
+<circle style='fill:#0000ff' cx='3436' cy='680' r='3' />
+<circle style='fill:#0000ff' cx='3492' cy='680' r='3' />
+<circle style='fill:#0000ff' cx='184' cy='690' r='3' />
+<circle style='fill:#0000ff' cx='2340' cy='690' r='3' />
+<circle style='fill:#0000ff' cx='2348' cy='690' r='3' />
+<circle style='fill:#0000ff' cx='3420' cy='690' r='3' />
+<circle style='fill:#0000ff' cx='4076' cy='690' r='3' />
+<circle style='fill:#0000ff' cx='180' cy='700' r='3' />
+<circle style='fill:#0000ff' cx='3416' cy='700' r='3' />
+<circle style='fill:#0000ff' cx='4104' cy='700' r='3' />
+<circle style='fill:#0000ff' cx='168' cy='710' r='3' />
+<circle style='fill:#0000ff' cx='880' cy='710' r='3' />
+<circle style='fill:#0000ff' cx='3404' cy='710' r='3' />
+<path d='M484 30 L464 30' fill='transparent' stroke='red' />
+<path d='M468 40 L484 30' fill='transparent' stroke='red' />
+<path d='M268 550 L468 40' fill='transparent' stroke='red' />
+<path d='M280 560 L268 550' fill='transparent' stroke='red' />
+<path d='M272 590 L280 560' fill='transparent' stroke='red' />
+<path d='M268 600 L272 590' fill='transparent' stroke='red' />
+<path d='M256 620 L268 600' fill='transparent' stroke='red' />
+<path d='M276 620 L256 620' fill='transparent' stroke='red' />
+<path d='M272 630 L276 620' fill='transparent' stroke='red' />
+<path d='M228 640 L272 630' fill='transparent' stroke='red' />
+<path d='M512 640 L228 640' fill='transparent' stroke='red' />
+<path d='M264 670 L512 640' fill='transparent' stroke='red' />
+<path d='M184 690 L264 670' fill='transparent' stroke='red' />
+<path d='M180 700 L184 690' fill='transparent' stroke='red' />
+<path d='M168 710 L180 700' fill='transparent' stroke='red' />
+<path d='M532 10 L464 30' fill='transparent' stroke='red' />
+<path d='M536 10 L532 10' fill='transparent' stroke='red' />
+<path d='M560 10 L536 10' fill='transparent' stroke='red' />
+<path d='M604 20 L560 10' fill='transparent' stroke='red' />
+<path d='M736 140 L604 20' fill='transparent' stroke='red' />
+<path d='M744 160 L736 140' fill='transparent' stroke='red' />
+<path d='M748 170 L744 160' fill='transparent' stroke='red' />
+<path d='M768 230 L748 170' fill='transparent' stroke='red' />
+<path d='M764 240 L768 230' fill='transparent' stroke='red' />
+<path d='M768 240 L764 240' fill='transparent' stroke='red' />
+<path d='M776 270 L768 240' fill='transparent' stroke='red' />
+<path d='M768 270 L776 270' fill='transparent' stroke='red' />
+<path d='M772 350 L768 270' fill='transparent' stroke='red' />
+<path d='M780 360 L772 350' fill='transparent' stroke='red' />
+<path d='M788 390 L780 360' fill='transparent' stroke='red' />
+<path d='M768 460 L788 390' fill='transparent' stroke='red' />
+<path d='M792 660 L768 460' fill='transparent' stroke='red' />
+<path d='M880 710 L792 660' fill='transparent' stroke='red' />
+</svg>
+</body>
+</html>
